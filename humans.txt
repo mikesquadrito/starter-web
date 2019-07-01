@@ -3,7 +3,7 @@
 
 # TEAM
 
-    MIKE -- <role> -- <twitter>
+    MIKE -- DEVELOPER -- <twitter>
 
 # THANKS
 
