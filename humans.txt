@@ -3,13 +3,13 @@
 
 # TEAM
 
-    MICHAEL A. SQUADRITO -- PROGRAMMER -- 
+    MIKE A. SQUADRITO -- PROGRAMMER -- 
 
 # THANKS
 
     <name>
 
-# TECHNOLOGY COLOPHON
+# TECH COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
