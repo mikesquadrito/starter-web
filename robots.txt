@@ -1,3 +1,3 @@
 # robotstxt.org/
-    MIKE A SQUAD
+    MIKE A SQUADO
 User-agent: *
