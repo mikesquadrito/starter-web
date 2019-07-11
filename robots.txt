@@ -1,3 +1,8 @@
 # robotstxt.org/
+<<<<<<< HEAD
     MICHAEL ANTHONY SQUADRITO
 User-agent: YOU
+=======
+    MIKE A SQUADRITO
+User-agent: ME
+>>>>>>> mybranch
