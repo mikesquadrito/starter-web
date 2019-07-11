@@ -1,3 +1,3 @@
 # robotstxt.org/
-    MIKE A SQUADRITO
+    MIKE A SQUADO
 User-agent: *
