@@ -1,3 +1,3 @@
-copy right
+copy right notice
 
 new changes
