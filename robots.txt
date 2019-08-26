@@ -1,4 +1,4 @@
 # robotstxt.org/
-    MIKE ANTHONY SQUADRITO
+    MICHAEL ANTHONY SQUADRITO
 User-agent: *
 
